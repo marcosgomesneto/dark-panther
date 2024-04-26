@@ -1,9 +1,7 @@
 
 <div align="center">
 
-![dark-panther-logotype](images/icon.png)
-
-# Dark Panther Theme for VS Code
+![dark-panther-logotype](images/banner.jpg)
 
 </div>
 
