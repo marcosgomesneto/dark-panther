@@ -1,0 +1,55 @@
+{
+    "name": "dark-panther",
+    "displayName": "Dark Panther",
+    "description": "A minimalist, modern, and dark VSCode theme inspired by this beautiful creature.",
+    "version": "1.8.1",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "cheolor": "#23262E",
+        "theme": "dark"
+    },
+    "publisher": "marcos-gomes-neto",
+    "author": {
+        "name": "Marcos Gomes Neto",
+        "url": "https://marcosgomesneto.dev",
+        "email": "contact@marcosgomesneto.dev"
+    },
+    "repository": {
+        "url": "https://github.com/marcosgomesneto/dark-panther"
+    },
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Panther Dawn",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-panther-dawn-theme.json"
+            },
+            {
+                "label": "Dark Panther Midnight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-panther-midnight-theme.json"
+            },
+            {
+                "label": "Dark Panther Midnight Flat",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-panther-midnight-flat-theme.json"
+            },
+            {
+                "label": "Dark Panther Nightfall",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-panther-nightfall-theme.json"
+            },
+            {
+                "label": "Dark Panther Nightfall Flat",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-panther-nightfall-flat-theme.json"
+            }
+        ]
+    }
+}
