@@ -2,10 +2,10 @@
     "name": "dark-panther",
     "displayName": "Dark Panther",
     "description": "A minimalist, modern, and dark VSCode theme inspired by this beautiful creature.",
-    "version": "1.8.1",
+    "version": "1.0.2",
     "icon": "images/icon.png",
     "galleryBanner": {
-        "cheolor": "#23262E",
+        "color": "#0D080F",
         "theme": "dark"
     },
     "publisher": "marcos-gomes-neto",
@@ -17,11 +17,20 @@
     "repository": {
         "url": "https://github.com/marcosgomesneto/dark-panther"
     },
+    "bugs": {
+        "url": "https://github.com/marcosgomesneto/dark-panther/issues"
+    },
     "engines": {
         "vscode": "^1.14.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "panther",
+        "dark",
+        "theme",
+        "color-theme"
     ],
     "contributes": {
         "themes": [
